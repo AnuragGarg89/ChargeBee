@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Crater Application test cases" verbose="1">
+    <listeners>
+        <listener class-name="org.chargebee.assignment.utility.AnnotationTransformer"/>
+    </listeners>
+    <test name="Customer Page Test Cases">
+        <classes>
+            <class name="org.chargebee.testcases.UnitTests.CustomerPageTestCases"/>
+        </classes>
+    </test>
+    <test name="Estimate Page Test Cases">
+        <classes>
+            <class name="org.chargebee.testcases.UnitTests.EstimatesPageTestCases"/>
+        </classes>
+    </test>
+    <test name="Invoice Page Test Cases">
+        <classes>
+            <class name="org.chargebee.testcases.UnitTests.InvoicesPageTestCases"/>
+        </classes>
+    </test>
+    <test name="Payments Page Test Cases">
+        <classes>
+            <class name="org.chargebee.testcases.UnitTests.PaymentsPageTestCases"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->

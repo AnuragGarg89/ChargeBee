@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.chargebee.testcases.UnitTests.InvoicesPageTestCases" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-25T21:13:16" hostname="INND3LTFJY0DB3" time="150.417">
+  <properties/>
+  <testcase name="editInvoice" classname="org.chargebee.testcases.UnitTests.InvoicesPageTestCases" time="150.417"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 57871
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jun 26, 2022 2:43:07 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Jun 26, 2022 2:43:07 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 102
+]]></system-err>
+</testsuite>

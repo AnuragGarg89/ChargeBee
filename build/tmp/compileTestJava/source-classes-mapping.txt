@@ -1,0 +1,10 @@
+org/chargebee/testcases/UnitTests/PaymentsPageTestCases.java
+ org.chargebee.testcases.UnitTests.PaymentsPageTestCases
+org/chargebee/testcases/UnitTests/EstimatesPageTestCases.java
+ org.chargebee.testcases.UnitTests.EstimatesPageTestCases
+org/chargebee/testcases/UnitTests/InvoicesPageTestCases.java
+ org.chargebee.testcases.UnitTests.InvoicesPageTestCases
+org/chargebee/testcases/SanityTests/EndToEndFlowTestCases.java
+ org.chargebee.testcases.SanityTests.EndToEndFlowTestCases
+org/chargebee/testcases/UnitTests/CustomerPageTestCases.java
+ org.chargebee.testcases.UnitTests.CustomerPageTestCases
